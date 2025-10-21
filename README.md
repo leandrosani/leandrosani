@@ -19,10 +19,16 @@
 
 ## 📂 Projetos Principais
 
-### [Nome do Projeto 1](link_do_repositorio)
+### [Dumont Projetos](https://leandrosani.github.io/site-dumonteprojetos/)
 Descrição curta do projeto. Tecnologias: React.js, TailwindCSS.
 
-### [Nome do Projeto 2](link_do_repositorio)
+### [Reembolso](leandrosani.github.io/js-reembolso/)
+Descrição curta do projeto. Tecnologias: Next.js, Node.js.
+
+### [Check List](https://leandrosani.github.io/lista-com-prioridade/)
+Descrição curta do projeto. Tecnologias: Next.js, Node.js.
+
+### [ConvertCase](https://leandrosani.github.io/convert-template-main/)
 Descrição curta do projeto. Tecnologias: Next.js, Node.js.
 
 ---
