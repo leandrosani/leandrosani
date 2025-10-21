@@ -1,4 +1,4 @@
-# Olá, eu sou Leandro 👋
+# Leandro Sani
 
 💻 Desenvolvedor | TypeScript, JavaScript, React.js, Node.js, HTML, CSS  
 🌱 Atualmente estudando backend.  
