@@ -1,4 +1,4 @@
-# ![Leandro Sani](https://img.shields.io/badge/-Leandro%20Sani-61DAFB?style=for-the-badge&logo=github&logoColor=white)
+# Leandro Sani
 
 💻 Desenvolvedor | TypeScript, JavaScript, React.js, Node.js, HTML, CSS  
 🌱 Atualmente estudando backend.  
