@@ -28,7 +28,10 @@ Descrição curta do projeto. Tecnologias: Next.js, Node.js.
 ### [Check List](https://leandrosani.github.io/lista-com-prioridade/)
 Descrição curta do projeto. Tecnologias: Next.js, Node.js.
 
-### [ConvertCase](https://leandrosani.github.io/convert-template-main/)
+### [Converter Moeda](https://leandrosani.github.io/convert-template-main/)
+Descrição curta do projeto. Tecnologias: Next.js, Node.js.
+
+### [ConvertCase](https://leandrosani.github.io/site-convertcase/)
 Descrição curta do projeto. Tecnologias: Next.js, Node.js.
 
 ---
